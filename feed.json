@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://legacyhc.github.io/legacyhc.org/wysiwyg-post.html",
+            "url": "https://legacyhc.github.io/legacyhc.org/wysiwyg-post.html",
+            "title": "wysiwyg post",
+            "summary": "a;sdklfj;akldsjf",
+            "content_html": "<p>a;sdklfj;akldsjf</p>",
+            "author": {
+                "name": "Ken"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-11T23:11:58-07:00",
+            "date_modified": "2024-08-11T23:11:58-07:00"
+        },
+        {
             "id": "https://legacyhc.github.io/legacyhc.org/test-post.html",
             "url": "https://legacyhc.github.io/legacyhc.org/test-post.html",
             "title": "Test post",

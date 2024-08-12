@@ -3,12 +3,32 @@
     <title>Legacy Homeschool</title>
     <link href="https://legacyhc.github.io/legacyhc.org/feed.xml" rel="self" />
     <link href="https://legacyhc.github.io/legacyhc.org" />
-    <updated>2024-08-11T22:52:14-07:00</updated>
+    <updated>2024-08-11T23:11:58-07:00</updated>
     <author>
         <name>Ken</name>
     </author>
     <id>https://legacyhc.github.io/legacyhc.org</id>
 
+    <entry>
+        <title>wysiwyg post</title>
+        <author>
+            <name>Ken</name>
+        </author>
+        <link href="https://legacyhc.github.io/legacyhc.org/wysiwyg-post.html"/>
+        <id>https://legacyhc.github.io/legacyhc.org/wysiwyg-post.html</id>
+
+        <updated>2024-08-11T23:11:58-07:00</updated>
+            <summary>
+                <![CDATA[
+                    a;sdklfj;akldsjf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>a;sdklfj;akldsjf</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test post</title>
         <author>
