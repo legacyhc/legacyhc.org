@@ -3,12 +3,34 @@
     <title>Legacy Homeschool</title>
     <link href="https://legacyhc.github.io/legacyhc.org/feed.xml" rel="self" />
     <link href="https://legacyhc.github.io/legacyhc.org" />
-    <updated>2024-08-11T23:11:58-07:00</updated>
+    <updated>2024-08-11T23:25:16-07:00</updated>
     <author>
         <name>Ken</name>
     </author>
     <id>https://legacyhc.github.io/legacyhc.org</id>
 
+    <entry>
+        <title>testing markdown </title>
+        <author>
+            <name>Ken</name>
+        </author>
+        <link href="https://legacyhc.github.io/legacyhc.org/testing-markdown.html"/>
+        <id>https://legacyhc.github.io/legacyhc.org/testing-markdown.html</id>
+
+        <updated>2024-08-11T23:25:16-07:00</updated>
+            <summary>
+                <![CDATA[
+                    testing what is this asdfadsf is this going to be rendered at build time or at render time?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="testing">testing</h1>
+<h2 id="what-is-this">what is this</h2>
+<p><strong>asdfadsf</strong> is this going to be rendered at build time or at render time?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>wysiwyg post</title>
         <author>
