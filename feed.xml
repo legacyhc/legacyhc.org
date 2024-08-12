@@ -3,12 +3,34 @@
     <title>Legacy Homeschool</title>
     <link href="https://legacyhc.github.io/legacyhc.org/feed.xml" rel="self" />
     <link href="https://legacyhc.github.io/legacyhc.org" />
-    <updated>2024-08-11T23:25:16-07:00</updated>
+    <updated>2024-08-11T23:31:07-07:00</updated>
     <author>
         <name>Ken</name>
     </author>
     <id>https://legacyhc.github.io/legacyhc.org</id>
 
+    <entry>
+        <title>Class Schedule</title>
+        <author>
+            <name>Ken</name>
+        </author>
+        <link href="https://legacyhc.github.io/legacyhc.org/class-schedule.html"/>
+        <id>https://legacyhc.github.io/legacyhc.org/class-schedule.html</id>
+
+        <updated>2024-08-11T23:31:07-07:00</updated>
+            <summary>
+                <![CDATA[
+                    hello world
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><div style="color: red">
+  hello world
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>testing markdown </title>
         <author>

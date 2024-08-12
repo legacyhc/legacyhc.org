@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://legacyhc.github.io/legacyhc.org/class-schedule.html",
+            "url": "https://legacyhc.github.io/legacyhc.org/class-schedule.html",
+            "title": "Class Schedule",
+            "summary": "hello world",
+            "content_html": "<div><div style=\"color: red\">\n  hello world\n</div></div>",
+            "author": {
+                "name": "Ken"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-11T23:31:07-07:00",
+            "date_modified": "2024-08-11T23:31:07-07:00"
+        },
+        {
             "id": "https://legacyhc.github.io/legacyhc.org/testing-markdown.html",
             "url": "https://legacyhc.github.io/legacyhc.org/testing-markdown.html",
             "title": "testing markdown ",
