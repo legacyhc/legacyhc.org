@@ -3,7 +3,7 @@
     <title>Legacy Homeschool</title>
     <link href="https://legacyhc.github.io/legacyhc.org/feed.xml" rel="self" />
     <link href="https://legacyhc.github.io/legacyhc.org" />
-    <updated>2024-08-11T23:53:10-07:00</updated>
+    <updated>2024-08-11T23:55:53-07:00</updated>
     <author>
         <name>Ken</name>
     </author>
@@ -46,7 +46,8 @@
 			font-size: 80%;
 		}
 	</style>
-
+<div class="container">
+<div class="schedcontent">
 <table width="100%" border="1" align="center">
 			
 				<!-- Column Headers -->
@@ -738,6 +739,8 @@
 	  <!--</tr>-->
 	   
 	</tr></tbody></table>
+ </div>
+ </div>
 </div>
             ]]>
         </content>
