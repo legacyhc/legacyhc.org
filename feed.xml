@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Legacy Homeschool</title>
+    <link href="https://legacyhc.github.io/legacyhc.org/feed.xml" rel="self" />
+    <link href="https://legacyhc.github.io/legacyhc.org" />
+    <updated>2024-08-11T22:52:14-07:00</updated>
+    <author>
+        <name>Ken</name>
+    </author>
+    <id>https://legacyhc.github.io/legacyhc.org</id>
+
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Ken</name>
+        </author>
+        <link href="https://legacyhc.github.io/legacyhc.org/test-post.html"/>
+        <id>https://legacyhc.github.io/legacyhc.org/test-post.html</id>
+
+        <updated>2024-08-11T22:47:02-07:00</updated>
+            <summary>
+                <![CDATA[
+                    this is just a test post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is just a test post</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Legacy Homeschool",
+    "description": "",
+    "home_page_url": "https://legacyhc.github.io/legacyhc.org",
+    "feed_url": "https://legacyhc.github.io/legacyhc.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ken"
+    },
+    "items": [
+        {
+            "id": "https://legacyhc.github.io/legacyhc.org/test-post.html",
+            "url": "https://legacyhc.github.io/legacyhc.org/test-post.html",
+            "title": "Test post",
+            "summary": "this is just a test post",
+            "content_html": "<p>this is just a test post</p>",
+            "author": {
+                "name": "Ken"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-11T22:47:02-07:00",
+            "date_modified": "2024-08-11T22:52:14-07:00"
+        }
+    ]
+}
